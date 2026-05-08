@@ -102,35 +102,6 @@ This project implements three interdependent infrastructure layers:
 
 ---
 
-## Repository Structure
-├── README.md
-├── configs/
-│   ├── PE1_config.txt
-│   ├── PE2_config.txt
-│   ├── P1_config.txt
-│   ├── P2_config.txt
-│   ├── CE11_config.txt
-│   ├── CE12_config.txt
-│   ├── CE21_config.txt
-│   ├── CE22_config.txt
-│   ├── Federateur1_config.txt
-│   ├── Federateur2_config.txt
-│   ├── SW1_config.txt
-│   ├── SW2_config.txt
-│   ├── Switch3_config.txt
-│   └── Switch4_config.txt
-├── topology/
-│   ├── vpn_mpls_backbone.png
-│   ├── full_topology_extended_lan.png
-│   ├── monitoring_architecture.png
-│   └── mssi_project.gns3
-├── report/
-│   └── MSSI_VPN_MPLS_Report.pdf
-└── demo/
-└── DEMO.md
-
----
-
 ## Tools & Environment
 
 | Component | Version / Details |
