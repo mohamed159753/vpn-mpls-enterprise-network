@@ -59,6 +59,11 @@ This project implements three interdependent infrastructure layers:
 - **IP SLA** on CE12 and CE22: ICMP echo + UDP jitter toward Siège HSRP gateway (172.16.210.1), 30s intervals, 0 failures
 - **Extended ACLs on all VTY lines**: only ADMIN1 (172.16.220.100) and ADMIN2 (172.16.220.150) permitted; `deny any any log` for audit trail
 
+  
+![Zabbix Dashboard](screenshots/zabbix_dashboard.png)
+![Admin 1 SSH success](screenshots/ADMIN1-CE11-SUCCESS.png)
+![Admin 2 SSH success](screenshots/ADMIN2-CE11-SUCCESS.png)
+
 ---
 
 ## IP Addressing Summary
