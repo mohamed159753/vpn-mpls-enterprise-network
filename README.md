@@ -11,7 +11,7 @@
 ---
 
 ## 📺 Demo
-[▶ Watch the full 15-minute project walkthrough](YOUR_YOUTUBE_LINK_HERE)
+[▶ Watch the full 15-minute project walkthrough](https://www.loom.com/share/12e1d451797e469da07cd50f68cc8bb6)
 
 ---
 
