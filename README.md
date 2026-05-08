@@ -1,4 +1,3 @@
-
 # Enterprise Network Infrastructure — VPN-MPLS, Extended LAN & Monitoring
 
 > Full enterprise network design and implementation: carrier-grade VPN-MPLS 
